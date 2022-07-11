@@ -1,7 +1,8 @@
 body {
-    background: rgb(53, 44, 44);
+    background: radial-gradient(blue,purple);
+    height: 100vh;
     font-family: Helvetica, Arial, sans-serif;
-    color: rgb(180, 243, 243);
+    color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
 }
